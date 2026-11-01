@@ -1,0 +1,15 @@
+# Animated assets generated from the installed game (Klei art, not distributable).
+MosslingDesktopPet/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# PyInstaller / local artifacts
+*.exe
+_internal/
+smoke-report.json
